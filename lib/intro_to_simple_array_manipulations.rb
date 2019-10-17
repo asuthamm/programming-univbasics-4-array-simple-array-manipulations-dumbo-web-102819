@@ -11,7 +11,7 @@ def using_pop(array)
 end
 
 def pop_with_args(array, num)
-  array.pop(validates_numericality_of)
+  array.pop(num)
 end
 
 def using_shift(array)
