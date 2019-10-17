@@ -21,7 +21,7 @@ def using_shift(array)
 end
 
 def shift_with_args(array,num)
-  num.times { array.shift)
+  num.times { array.shift } 
 end
 
 def using_concat(array1, array2)
